@@ -1,8 +1,30 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Samuthrakumar Venugopalan
+
+2. I have been working on data for the past couple of years and has experience in data analytics through out my career. Also our team is moving towards machine learning to understand the telemetry data and experimenting various scenarios for various customers. A degree in Data science not only deepens my knowledge, but also allows me to analyze and experiment better than doing now.
+
+3. I have more than 12 years experience in design, development and testing. I am currently working in Microsoft for the past 8 years as a software developer. I am a full stack developer, mostly in to back end and middle tPythonier. I have a Masters degree in Computer science from Bharathidasan University, India. 
+	I am currently working on data extraction and transformation of COSMOS (Microsoft's internal data storage / query system for analysing enormous amount of data) "click stream data" for various Microsoft sites.
+
+4.  I have done a certification in Data Science (University of Washington) last year where I did a one full course(10 weeks) on Statistics. Below are the topics we have covered in the course.
+
+week	Topic
+1	Course overview, descriptive statistics in R, data.table package
+2	R Markdown, probability distributions,
+3	the central limit theorem, estimators, and sampling distributions, statistical inference
+4	Hypothesis testing, t tests. 
+5	Linear Models
+6	Maximum Likelihood and Generalized Linear Models
+7	Prediction: Concepts, cross-validation, all-subsets variable selection
+8	Prediction Part 2: Ridge, Lasso, PCA
+9	Big Data in R: Parallelization and external data
+10	Prediction Part 3: k nearest neighbors classification, partial least squares regression
+
+Also I have studied statistics in my high school syllabus.
+
+5.  I have learned R in the certification program mentioned in the above question. As part of the certification, I have done a capstone project on "brain signal decoding" using R and submitted in cortana competition and achieved the 34th rank overall.
+
+6.  At the end of the class I should be able to solve real data science problem using Python and R
+
+7. None.
+
